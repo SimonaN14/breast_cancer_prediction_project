@@ -1,0 +1,5 @@
+Breast Cancer Prediction Metrics
+Accuracy = 0.9649
+Precision = 1.0000
+Recall = 0.9048
+F1-score = 0.9500
